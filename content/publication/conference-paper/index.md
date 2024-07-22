@@ -11,9 +11,9 @@ authors:
   - admin
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2019-12-30T00:00:00Z'
 doi: ''
@@ -27,7 +27,7 @@ publishDate: '2019-12-30T00:00:00Z'
 publication_types: ['journal-artile']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE ACCESS
+publication: In IEEE ACCESS
 # publication_short: In *ICW*
 
 abstract: In this paper, an improved distributed unscented Kalman particle filter (DUKPF) is proposed for the problem of tracking a single moving acoustic source in noisy and reverberant environments with distributed microphone networks. The conventional DUKPF employs the unscented Kalman filter (UKF) for its proposal of particle sampling, whereas the UKF incorporates one single observation from a certain localization function, which is vulnerable to noise or reverberation. To alleviate this problem, multiple observations are extracted from the localization function at each node and incorporated into the state update of the UKF via the probability data association (PDA) technique, yielding the PDA-UKF. Next, employing the PDA-UKF for the proposal of particle sampling, the improved DUKPF is further developed. Finally, the improved DUKPF is adapted for the acoustic source tracking problem, and a distributed acoustic source tracking method is presented. Simulation results reveal that the improved DUKPF achieved better tracking performance than the conventional DUKPF in different noisy and reverberant conditions.

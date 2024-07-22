@@ -3,9 +3,11 @@ title: "Sparse Bayesian multiple sources localization using variational approxim
 authors:
 - admin
 - Qiaoling Zhang
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Weiwei Zhang
+- Han Ma
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2022-06-30T00:00:00Z"
 doi: ""
 
