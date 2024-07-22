@@ -18,7 +18,7 @@ publishDate: "2022-06-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Digital Signal Processing"
+publication: "Digital Signal Processing"
 publication_short: ""
 
 abstract: Multiple sources localization (MSL) has been playing an important role in various applications of wireless sensor networks. In this paper, sparse representation-based MSL with received signal strength (RSS) as observations is addressed within the sparse Bayesian learning framework. Conventional approaches are usually based on the assumption of Gaussian prior for the sparse coefficients. In this paper, Laplacian prior is employed to model the sparse coefficient for improved sparsity performance. To tackle the problem that Laplace prior is not conjugate to Gaussian likelihood, a variational approximation is employed for Bayesian inference. Finally, a multiple sources localization method is developed. Furthermore, to reduce the computing complexity and promote sparsity, a fast multiple sources localization method is further developed. In the proposed methods, the source locations, sparse coefficients, and all necessary model parameters are adaptively deduced solely from the RSS observations. Meanwhile, by employing Laplacian prior for the sparse coefficients, better sparse recovery can be achieved. Experimental results demonstrate the effectiveness of the proposed methods.
@@ -26,8 +26,8 @@ abstract: Multiple sources localization (MSL) has been playing an important role
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: false
 
 # links:
