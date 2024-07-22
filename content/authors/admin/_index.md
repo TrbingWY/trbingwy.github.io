@@ -72,7 +72,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-07-01
-    date_end: 2023-07
+    date_end: 2023-07-31
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
