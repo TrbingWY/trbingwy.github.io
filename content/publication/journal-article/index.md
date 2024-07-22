@@ -62,7 +62,8 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-
+---
+---
 title: "Sparse Bayesian multiple sources localization using variational approximation for Laplace priors"
 authors:
 - admin
