@@ -58,12 +58,12 @@ education:
   - area: MEng Electronics and Communication Engineering
     institution: Zhejiang sci-tech university
     date_start: 2019-09-01
-    date_end: 2022-06-31
+    date_end: 2022-06-30
 
   - area: BSc Electronics Information Science and Technology
     institution: Zhejiang sci-tech university
     date_start: 2015-09-01
-    date_end: 2019-06-31
+    date_end: 2019-06-30
     summary: |
 
 work:
