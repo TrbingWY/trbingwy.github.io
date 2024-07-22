@@ -51,7 +51,7 @@ education:
   - area: PhD Computer Science
     institution: University of Manchester
     date_start: 2023-09-20
-    date_end: present
+    date_end: 2027-09-030
     summary: |
        I am a first-year ELLIS PhD student at the Centre for AI-FUn at University of Manchester and ELLIS Unit Manchester, where I am profoundly privileged to be under the mentorship of Professor [Prof Samuel Kaski](https://kaski-lab.com/) and Doctor [Dr Sabina Sloman] My PhD research focuses on Bayesian Optimal Experimetal Design under model misspecification.
 
