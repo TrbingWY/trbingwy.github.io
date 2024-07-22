@@ -3,7 +3,7 @@
 title: 柔冰 唐
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: robin tang
 
 # Full name (for SEO)
 first_name: Roubing
