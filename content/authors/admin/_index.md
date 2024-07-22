@@ -84,20 +84,23 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: MATLAB
+        percent: 80
+        icon: code-bracket
 
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-simple-walk
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
 
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera
+      - name: Music
+        description: ''
+        percent: 80
+        icon: music
 
 languages:
   - name: English
@@ -129,7 +132,7 @@ awards:
     #   - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   - title: 'Awarded National Scholarship'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+    # certificate_url: https://www.datacamp.com
     date: '2021-05-01'
     awarder: Chinese National Scholarship
     # icon: datacamp
