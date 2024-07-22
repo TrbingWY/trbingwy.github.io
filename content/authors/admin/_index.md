@@ -115,15 +115,15 @@ awards:
   - title: Ellis Manchester full funding
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-09-01'
-    awarder: Coursera
-    icon: coursera
+    awarder: Ellis
+    # icon: coursera
     summary: |
       Working grant for doctoral students. 
   - title: Awarded Scholarship for Outstanding Students
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2022-05-01'
-    awarder: edX
-    icon: edx
+    awarder: Zhejiang sci-tech University
+    # icon: edx
     # summary: |
     #   Learned:
     #   - Synthesize your own blockchain solutions
@@ -133,8 +133,8 @@ awards:
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2021-05-01'
-    awarder: datacamp
-    icon: datacamp
+    awarder: Chinese National Scholarship
+    # icon: datacamp
     # summary: |
     #   Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
