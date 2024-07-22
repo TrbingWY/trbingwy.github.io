@@ -37,15 +37,15 @@ profiles:
     url: https://x.com/RoubingT
   - icon: brands/github
     url: https://github.com/TrbingWY
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/roubing-tang-936478258/
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian inference
+  - decision making
+  - Expeirmental design
 
 education:
   - area: PhD Computer Science
@@ -82,30 +82,20 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
 
 languages:
   - name: English
@@ -149,4 +139,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first-year ELLIS PhD student at the Centre for [AI-FUn](https://www.ai-fun.manchester.ac.uk/research/) at University of Manchester and [ELLIS Unit Manchester](https://ellis.eu/units/manchester), where I am profoundly privileged to be under the mentorship of Professor [Prof Samuel Kaski](https://kaski-lab.com/) and Doctor [Dr Sabina Sloman](https://scholar.google.com/citations?user=eRBM_UcAAAAJ&hl=en) and [Doctor Michele Caprio](https://michelecaprio.wixsite.com/caprio). My PhD research focuses on Bayesian Optimal Experimetal Design under model misspecification.
