@@ -70,7 +70,7 @@ education:
 
 work:
   - position: Machine Learning Engineer
-    company_name: Wintin
+    company_name: Witmem Technology
     company_url: ''
     company_logo: ''
     date_start: 2022-07-01
