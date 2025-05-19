@@ -142,7 +142,7 @@ awards:
 
 ## About Me
 
-I am a first-year ELLIS PhD student at the Centre for [AI-FUn](https://www.ai-fun.manchester.ac.uk/research/) at University of Manchester and [ELLIS Unit Manchester](https://ellis.eu/units/manchester), where I am profoundly privileged to be under the mentorship of [Prof Samuel Kaski](https://kaski-lab.com/) and [Dr Sabina Sloman](https://scholar.google.com/citations?user=eRBM_UcAAAAJ&hl=en) and [Dr Michele Caprio](https://michelecaprio.wixsite.com/caprio).
+I am a second-year ELLIS PhD student at the Centre for [AI-FUn](https://www.ai-fun.manchester.ac.uk/research/) at University of Manchester and [ELLIS Unit Manchester](https://ellis.eu/units/manchester), where I am profoundly privileged to be under the mentorship of [Prof Samuel Kaski](https://kaski-lab.com/) and [Dr Sabina Sloman](https://scholar.google.com/citations?user=eRBM_UcAAAAJ&hl=en) and [Dr Michele Caprio](https://michelecaprio.wixsite.com/caprio).
 Under ELLIS program, I am also fortunate to have [Dr Luigi Acerbi](https://www.helsinki.fi/en/researchgroups/machine-and-human-intelligence) at the University of Helsinki as my second advisor.
 My PhD research focuses on Bayesian Optimal Experimetal Design under model misspecification.
 
