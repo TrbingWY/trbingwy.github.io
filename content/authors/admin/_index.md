@@ -3,7 +3,7 @@
 title: Roubing Tang
 
 # Name pronunciation (optional)
-name_pronunciation: robin tang
+# name_pronunciation: robin tang
 
 # Full name (for SEO)
 first_name: Roubing
@@ -48,6 +48,7 @@ interests:
   - Bayesian inference
   - decision making
   - Expeirmental design
+  - Active learning
 
 education:
   - area: PhD Computer Science
@@ -75,6 +76,10 @@ work:
     company_logo: ''
     date_start: 2022-07-01
     date_end: 2023-07-31
+
+Teaching:
+  - position: Teaching assistant
+    course name: Statistics and Machine Learning (DATA70132) 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
