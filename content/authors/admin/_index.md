@@ -41,7 +41,7 @@ profiles:
     url: https://github.com/TrbingWY
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/roubing-tang-936478258/
-  - icon: googlescholar
+  - icon: brands/googlescholar
     url: https://scholar.google.com/citations?user=MKUAFqQAAAAJ&hl
 
 interests:
