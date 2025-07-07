@@ -1,7 +1,8 @@
 ---
 title: Recent & Upcoming Talks
 cms_exclude: true
-#url: talk
+summary: Bayesian Computation and Inference with Misspecified Models Satellite Workshop in BayesComp 2025
+url: https://bayescomp2025.sg/
 
 # View
 view: card
@@ -12,4 +13,3 @@ image:
   filename: ''
 ---
 
-Bayesian Computation and Inference with Misspecified Models Satellite Workshop in BayesComp 2025

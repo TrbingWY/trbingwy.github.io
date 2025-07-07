@@ -41,8 +41,8 @@ profiles:
     url: https://github.com/TrbingWY
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/roubing-tang-936478258/
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
+  - icon: brands/scholar
+    url: https://scholar.google.com/citations?user=MKUAFqQAAAAJ&hl
 
 interests:
   - Bayesian inference
@@ -77,9 +77,9 @@ work:
     date_start: 2022-07-01
     date_end: 2023-07-31
 
-Teaching:
-  - position: Teaching assistant
-    course name: Statistics and Machine Learning (DATA70132) 
+# Teaching:
+#   - position: Teaching assistant
+#     course name: Statistics and Machine Learning (DATA70132) 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -119,14 +119,14 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Ellis Manchester full funding
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://ellis.eu/
     date: '2023-09-01'
     awarder: Ellis
     # icon: coursera
     summary: |
       Working grant for doctoral students. 
   - title: Awarded Scholarship for Outstanding Students
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2022-05-01'
     awarder: Zhejiang sci-tech University
     # icon: edx
@@ -136,7 +136,7 @@ awards:
     #   - Gain an in-depth understanding of the specific mechanics of Bitcoin
     #   - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   - title: 'Awarded National Scholarship'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     # certificate_url: https://www.datacamp.com
     date: '2021-05-01'
     awarder: Chinese National Scholarship

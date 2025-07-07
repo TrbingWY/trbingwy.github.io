@@ -1,7 +1,7 @@
 ---
 title: DATA70132:Statistics & Machine Learning 2 (Teaching assistant)
 date: 2025-1
-external_link: https://www.manchester.ac.uk/study/masters/courses/list/11428/msc-data-science-mathematics/course-details/DATA70132#course-unit-details
+url: https://www.manchester.ac.uk/study/masters/courses/list/11428/msc-data-science-mathematics/course-details/DATA70132#course-unit-details
 # tags:
 #   - Hugo
 ---
@@ -15,4 +15,3 @@ Classifiers and clustering: supervised and unsupervised learning, k-means and k-
 Neural Networks and Deep Learning: perceptrons, back-propagation and multi-layer networks.
 Markov-chain Monte Carlo (MCMC) methods: Markov chains and their stationary distributions, likelihood-based inference using the Metropolis-Hastings algorithm, likelihood-free inference using Approximate Bayesian Computation, tests for convergence, applications to Bayesian inference.
 Special Topic: Depending on the teaching staff, one special topic will be chosen to go into near-research depth, e.g. Random Forests; Social Networks; Time Series Analysis; Advanced Monte Carlo methods.
-See details 
