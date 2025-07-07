@@ -48,7 +48,7 @@ interests:
   - Bayesian inference
   - decision making
   - Expeirmental design
-  - Active learning
+  - Model misspecification
 
 education:
   - area: PhD Computer Science
