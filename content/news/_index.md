@@ -11,3 +11,5 @@ image:
   caption: ''
   filename: ''
 ---
+
+Bayesian Computation and Inference with Misspecified Models Satellite Workshop in BayesComp 2025
