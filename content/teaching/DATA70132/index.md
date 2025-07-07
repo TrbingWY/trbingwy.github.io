@@ -1,12 +1,13 @@
 ---
 title: DATA70132:Statistics & Machine Learning 2 (Teaching assistant)
 date: 2025-1
-url: https://www.manchester.ac.uk/study/masters/courses/list/11428/msc-data-science-mathematics/course-details/DATA70132#course-unit-details
+
+# url: https://www.manchester.ac.uk/study/masters/courses/list/11428/msc-data-science-mathematics/course-details/DATA70132#course-unit-details
 # tags:
 #   - Hugo
 ---
 
-DATA70132: Statistics & Machine Learning 2: AI, Complex Data, Computationally Intensive Statistics (Semester B, 2024/25 Academic Year)
+[DATA70132](https://www.manchester.ac.uk/study/masters/course-list/11428/msc-data-science-mathematics/course-details/DATA70132#course-unit-details): Statistics & Machine Learning 2: AI, Complex Data, Computationally Intensive Statistics (Semester B, 2024/25 Academic Year)
 
 The module is delivered as a mixture of lectures and practical sessions and has five main sections:
 
