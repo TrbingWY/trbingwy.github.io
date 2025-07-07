@@ -70,7 +70,7 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - news
+          - event
     design:
       view: article-grid
       columns: 1
