@@ -16,11 +16,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2026'
+date: '2025'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2016'
+publishDate: '2026'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
