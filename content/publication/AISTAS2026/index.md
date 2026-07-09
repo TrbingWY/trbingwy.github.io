@@ -7,7 +7,6 @@ Representative, Informative, and De-Amplifying: Requirements for Robust Bayesian
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Weiwei Zhang
   - Sabina J Sloman
   - Samuel Kaski
 
