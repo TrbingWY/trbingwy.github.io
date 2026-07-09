@@ -65,7 +65,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: news
     content:
       title: Recent News
       filters:
