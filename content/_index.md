@@ -64,26 +64,26 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent News
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     view: article-grid
-  #     columns: 1
-  - block: markdown
+  - block: collection
     id: talks
     content:
       title: Recent News
-      text: |-
-        1. Give a talk at Bayesian Computation and Inference with Misspecified Models Satellite Workshop in [BayesComp 2025](https://bayescomp2025.sg/)
-        2. Poster at [AISTATS 2026](https://virtual.aistats.org/virtual/2026/calendar)
-        3. Give a talk at [Bayesian Optimal Experimental Design Workshop (BED Workshop)](https://sites.google.com/view/bayesianexperimentaldesign/schedule?authuser=0)
+      filters:
+        folders:
+          - event
     design:
-      columns: '1'
+      view: article-grid
+      columns: 1
+  # - block: markdown
+  #   id: talks
+  #   content:
+  #     title: Recent News
+  #     text: |-
+  #       1. Give a talk at Bayesian Computation and Inference with Misspecified Models Satellite Workshop in [BayesComp 2025](https://bayescomp2025.sg/)
+  #       2. Poster at [AISTATS 2026](https://virtual.aistats.org/virtual/2026/calendar)
+  #       3. Give a talk at [Bayesian Optimal Experimental Design Workshop (BED Workshop)](https://sites.google.com/view/bayesianexperimentaldesign/schedule?authuser=0)
+  #   design:
+  #     columns: '1'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
