@@ -72,7 +72,7 @@ sections:
         folders:
           - event
     design:
-      view: compact
+      view: citation
       columns: 1
   # - block: markdown
   #   id: talks
